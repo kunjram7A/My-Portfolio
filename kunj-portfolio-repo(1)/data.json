@@ -1,0 +1,323 @@
+{
+  "version": 2,
+  "profile": {
+    "name": "Kunj Agnihotri",
+    "displayLine1": "Kunj",
+    "displayLine2": "Agnihotri",
+    "role": "Cyber security undergraduate",
+    "location": "Dehradun, Uttarakhand",
+    "tagline": "I study how systems break, build the ones that shouldn't, and lead the teams that ship them. Currently reading for a B.Tech in Computer Science at Veer Madho Singh Bhandari Uttarakhand Technical University.",
+    "about": "My route into engineering was lateral — three years of diploma work at Government Polytechnic Kashipur before joining UTU. That gave me more time at a workbench than in a lecture hall, and it shows in what I like doing: full-stack builds, cloud deployment, and the security practice that has to sit underneath both.\n\nOutside coursework I run programmes. I lead cyber security awareness across Uttarakhand for CSAP, sit as Operational Head of my college technical club, and represent Google and AWS on campus. The common thread is getting a room of students from curious to shipping.",
+    "availability": "Open to internships and security research collaborations",
+    "resume": "assets/docs/Kunj_Agnihotri_Resume.pdf",
+    "photo": ""
+  },
+  "links": {
+    "email": "kunjagnihotri@example.com",
+    "phone": "+91 90454 79659",
+    "linkedin": "https://www.linkedin.com/in/kunj-agnihotri-312b3539a",
+    "instagram": "https://www.instagram.com/kunjram7",
+    "github": ""
+  },
+  "stats": [
+    {
+      "value": "2027",
+      "label": "B.Tech batch, UTU"
+    },
+    {
+      "value": "8.0",
+      "label": "Diploma CGPA, GP Kashipur"
+    },
+    {
+      "value": "5",
+      "label": "Leadership roles held"
+    },
+    {
+      "value": "2",
+      "label": "Hackathons won"
+    }
+  ],
+  "roles": [
+    {
+      "title": "AWS Student Builder Campus Leader",
+      "org": "AWS Builder Center",
+      "period": "Current",
+      "note": "Runs cloud-builder sessions on campus and connects students to the AWS Builder community."
+    },
+    {
+      "title": "Google Student Ambassador",
+      "org": "Google",
+      "period": "2025 – 2026",
+      "note": "Hosted developer events, grew a student technology community, and ran hands-on sessions on Google tooling."
+    },
+    {
+      "title": "Uttarakhand Head",
+      "org": "Cyber Security Awareness Program (CSAP)",
+      "period": "Current",
+      "note": "Leads statewide awareness drives and digital-safety campaigns across institutions in Uttarakhand."
+    },
+    {
+      "title": "Operational Head",
+      "org": "Technical Club, Faculty of Technology",
+      "period": "Current",
+      "note": "Plans workshops and hackathons, and mentors juniors through software engineering and security fundamentals."
+    },
+    {
+      "title": "Smarted Student Ambassador",
+      "org": "Smarted",
+      "period": "2025",
+      "note": "Ran interactive student sessions and built out peer-learning groups on campus."
+    }
+  ],
+  "projects": [
+    {
+      "title": "KickstartU",
+      "role": "Founder and ideator",
+      "year": "2025 –",
+      "summary": "A platform built to get student founders from a raw idea to a working first version. I designed the system architecture, the product roadmap, and the core workflow, then worked alongside developers to build it out in scalable modules.",
+      "tags": [
+        "Product architecture",
+        "Roadmap",
+        "Founding"
+      ],
+      "image": "assets/img/kickstartu.jpg",
+      "link": "",
+      "featured": true
+    },
+    {
+      "title": "Raj Bhavan Spring Festival",
+      "role": "Technology team, Government of Uttarakhand",
+      "year": "2025",
+      "summary": "Co-developed and deployed the systems handling public-facing operations for a state government event. Everything ran live, in front of real visitors, with no second attempt available — which is the only real test of a deployment.",
+      "tags": [
+        "Government",
+        "Live deployment",
+        "Operations"
+      ],
+      "image": "",
+      "link": "",
+      "featured": false
+    },
+    {
+      "title": "Cancer Care India",
+      "role": "Web platform",
+      "year": "2025",
+      "summary": "A healthcare awareness platform built with modern web tooling and shipped openly through GitHub, aimed at making treatment and support information easier to find for patients and families. Includes an AI-powered risk assessment tool, a step-by-step first-aid guide, daily habit tracking, and a bilingual assistant for Hindi and English.",
+      "tags": [
+        "Healthcare",
+        "Web",
+        "Open source",
+        "AI assistant"
+      ],
+      "image": "assets/gallery/cancercare-app-1.jpg",
+      "link": "",
+      "featured": false
+    }
+  ],
+  "credentials": [
+    {
+      "title": "Build with AI Bootcamp",
+      "issuer": "Google for Developers with Hack2Skill",
+      "date": "09 June 2026",
+      "id": "2026H2S06BWAIBRK-P00246",
+      "note": "Building AI agents, architecting workflows, and integrating generative AI into production systems.",
+      "image": "assets/certs/build-with-ai.jpg",
+      "link": ""
+    },
+    {
+      "title": "Google Student Ambassador Program",
+      "issuer": "Google Gemini with Communique",
+      "date": "31 December 2025",
+      "id": "",
+      "note": "Completion of the ambassador programme for the Faculty of Technology cohort.",
+      "image": "assets/certs/google-student-ambassador.jpg",
+      "link": ""
+    },
+    {
+      "title": "Solve for Tomorrow 2026",
+      "issuer": "Samsung",
+      "date": "2026",
+      "id": "",
+      "note": "Design-thinking track, submitting an innovation proposal for a social-impact problem.",
+      "image": "assets/certs/samsung-solve.jpg",
+      "link": ""
+    },
+    {
+      "title": "Student Builder Campus Leader",
+      "issuer": "AWS Builder Center",
+      "date": "Current",
+      "id": "",
+      "note": "Campus leadership appointment within the AWS student builder community.",
+      "image": "assets/certs/aws-campus-leader.jpg",
+      "link": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Winners, IDE BootCamp 2026",
+      "note": "Presented a startup concept with market analysis and a revenue strategy."
+    },
+    {
+      "title": "Winner, National Level Hackathon",
+      "note": "Dev Bhoomi University, competing as team lead."
+    },
+    {
+      "title": "Author, The Human Brain Is Universe",
+      "note": "Self-published. Explores the parallels between consciousness, the brain, and the cosmos.",
+      "image": "assets/certs/human-brain-universe.jpg"
+    },
+    {
+      "title": "Winner, Dev Bhoomi National Hackathon",
+      "note": "Led the winning team, competing against colleges from across the region.",
+      "image": "assets/gallery/devbhoomi-hackathon.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "caption": "Teaching a full-stack session on campus",
+      "type": "image",
+      "src": "assets/gallery/campus-teaching-1.jpg"
+    },
+    {
+      "caption": "Walking students through a live build",
+      "type": "image",
+      "src": "assets/gallery/campus-teaching-2.jpg"
+    },
+    {
+      "caption": "Build with AI Bootcamp, Roorkee",
+      "type": "image",
+      "src": "assets/gallery/build-with-ai-event.jpg"
+    },
+    {
+      "caption": "Receiving a certificate of recognition",
+      "type": "image",
+      "src": "assets/gallery/award-ceremony-1.jpg"
+    },
+    {
+      "caption": "With the team at a campus ceremony",
+      "type": "image",
+      "src": "assets/gallery/award-ceremony-2.jpg"
+    },
+    {
+      "caption": "A lab session in progress",
+      "type": "image",
+      "src": "assets/gallery/lab-session.jpg"
+    },
+    {
+      "caption": "Briefing a state dignitary on a live deployment",
+      "type": "image",
+      "src": "assets/gallery/vip-meeting.jpg"
+    },
+    {
+      "caption": "At the Narayan Dutt Tiwari conference hall",
+      "type": "image",
+      "src": "assets/gallery/conference-hall.jpg"
+    },
+    {
+      "caption": "CSAP cyber security awareness program",
+      "type": "image",
+      "src": "assets/gallery/csap-program.jpg"
+    },
+    {
+      "caption": "Receiving a plaque from state officials",
+      "type": "image",
+      "src": "assets/gallery/plaque-presentation.jpg"
+    },
+    {
+      "caption": "Behind the scenes with the team",
+      "type": "image",
+      "src": "assets/gallery/media-interview.jpg"
+    },
+    {
+      "caption": "On stage, walking through the product",
+      "type": "image",
+      "src": "assets/gallery/stage-talk.jpg"
+    },
+    {
+      "caption": "Running a campus builder session",
+      "type": "video",
+      "src": "assets/video/campus-session.mp4"
+    },
+    {
+      "caption": "A clip from a recent event",
+      "type": "video",
+      "src": "assets/video/event-clip.mp4"
+    },
+    {
+      "caption": "Presenting on stage",
+      "type": "video",
+      "src": "assets/video/pitch-talk.mp4"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Languages",
+      "items": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "C#",
+        "MySQL",
+        "XML"
+      ]
+    },
+    {
+      "group": "Mobile",
+      "items": [
+        "Flutter",
+        "Android",
+        "Firebase",
+        "Firebase App Builder"
+      ]
+    },
+    {
+      "group": "Cloud and tooling",
+      "items": [
+        "AWS",
+        "Linux",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "group": "Security",
+      "items": [
+        "VAPT basics",
+        "Security practices",
+        "Awareness training"
+      ]
+    },
+    {
+      "group": "Systems",
+      "items": [
+        "IoT",
+        "VHDL",
+        "MGX"
+      ]
+    },
+    {
+      "group": "Working with people",
+      "items": [
+        "Leadership",
+        "Public speaking",
+        "Event management",
+        "Mentoring"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Veer Madho Singh Bhandari Uttarakhand Technical University",
+      "qualification": "B.Tech, Computer Science and Engineering (lateral entry)",
+      "period": "2024 – 2027",
+      "detail": "Dehradun, Uttarakhand"
+    },
+    {
+      "school": "Government Polytechnic Kashipur",
+      "qualification": "Diploma, Computer Science and Engineering",
+      "period": "Oct 2021 – Jun 2024",
+      "detail": "CGPA 8.0 / 10"
+    }
+  ]
+}
